@@ -1,0 +1,29 @@
+[font]
+size = 14
+
+[font.bold]
+family = "Hack"
+style = "Bold"
+
+[font.bold_italic]
+family = "Hack"
+style = "Bold Italic"
+
+[font.italic]
+family = "Hack"
+style = "Italic"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[env]
+WINIT_X11_SCALE_FACTOR = "1.2"
+
+[window]
+opacity = 0.85
+decorations_theme_variant = "Dark"
+dimensions = { columns = 120, lines = 50 }
+
+[selection]
+save_to_clipboard = true
